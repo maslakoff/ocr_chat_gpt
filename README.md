@@ -1,5 +1,11 @@
 # ocr_cv
 
+## Description
+
+Test OpenAPI as OCR service
+
+## Bun
+
 To install dependencies:
 
 ```bash
